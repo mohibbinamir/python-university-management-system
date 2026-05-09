@@ -1,0 +1,12 @@
+TP000001,Raif,Data Analytics
+TP000002,John,Bsc IT
+TP000004,Grace,Btech Computer Engineering
+TP000005,Kevin,Msc data analytics
+TP000006,Ali,Bsc IT
+TP000007,Muhamad,Bsc IT
+TP000008,Jango,Bba Marketing
+TP000009,Marc,Mba Marketing
+TP000010,Ahamad,Bsc Cyber Security
+TP000003,Leo,Msc Cyber Security
+TP000011,Mads,Bsc Cyber Security
+TP116306,Jeevan,Msc Biomedical Engineering

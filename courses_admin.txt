@@ -1,0 +1,9 @@
+PYP,Python Programming,3
+IDB,Introduction to Databases,3
+IN,Introduction to Networking,4
+DGTIN,Digital Thinking and Innovation,3
+CC2,Co-Curriculum,2
+ARS,Academic Research Skills,3
+PDSM,Personal Development and Study Methods,3
+PEP,Penghayatan Etika dan Peradaban,2
+IMA,Introduction to Multimedia Applications,3

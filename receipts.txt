@@ -1,0 +1,9 @@
+===============================
+          Fee Receipt          
+===============================
+Receipt Number: REC-1737144783
+Student ID: TP000002
+Student Name: TP000002,John,Bsc IT
+Amount Paid: $50000
+Transaction Date: 2025-01-18 04:13:03
+===============================

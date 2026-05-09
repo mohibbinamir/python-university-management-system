@@ -1,0 +1,9 @@
+PYP,Python Programming,L001
+IDB,Introduction to Databases,L001
+DGTIN,Digital Thinking and Innovation,L001
+IDB,Introduction to Databases,L002
+PEP,Penghayatan Etika dan Peradaban,L002
+CC2,Co-Curricular Activities,L002
+IN,Introduction to Networking,L003
+ARS,Academic Research Skills,L003
+PDSM,Personal Development and Study Methods,L003
